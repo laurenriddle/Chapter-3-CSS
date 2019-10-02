@@ -2,12 +2,13 @@ header {
     border: 1px solid goldenrod;
 }
 
-header ul li {
+header li {
     list-style-type: none;
     display: inline;
     padding: 40px 40px;
 }
-span.disabled {
+
+.disabled {
     color: grey;
 }
 
